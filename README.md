@@ -29,10 +29,39 @@
  ## EX04
   ### EXECUÇÃO DO PROJETO
 
+   <img src="https://user-images.githubusercontent.com/68368843/96913410-f3464880-1479-11eb-94df-47968d834ec1.PNG" 
+ width="400px" title="segundo layout" alt="segundo layout">
 
+  
+
+ ## EX05
+  ### EXECUÇÃO DO PROJETO
+
+ <img src="https://user-images.githubusercontent.com/68368843/96913448-048f5500-147a-11eb-8d3c-6257ede67792.PNG" 
+ width="400px" title="segundo layout" alt="segundo layout">
 
  
+ <img src="https://user-images.githubusercontent.com/68368843/96913591-36082080-147a-11eb-92df-f430cb43ffbd.PNG" 
+ width="400px" title="segundo layout" alt="segundo layout">
+
  
+ ## EX06
+  ### EXECUÇÃO DO PROJETO
+
+  <img src="https://user-images.githubusercontent.com/68368843/96913725-651e9200-147a-11eb-86f9-54c1cc0dab8b.PNG" 
+ width="400px" title="segundo layout" alt="segundo layout">
+
+  <img src="https://user-images.githubusercontent.com/68368843/96913778-79fb2580-147a-11eb-9726-bcd5a0a52ab5.PNG" 
+ width="400px" title="segundo layout" alt="segundo layout">
+
+
+ ## EX07
+  ### EXECUÇÃO DO PROJETO
+
+  <img src="" 
+ width="400px" title="segundo layout" alt="segundo layout">
+
+  
 
  ## Como executar o Projeto
 

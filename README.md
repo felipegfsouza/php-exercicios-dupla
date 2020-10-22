@@ -33,12 +33,22 @@
 
  
  
+
+ ## Como executar o Projeto
+
+
+  #### utilizamos o wamp na pasta www 
+
+  #### ative o wampserver
+  
+  #### execute em seu navegador  localhost/pasta-do-projeto/pagina.php
  
- Neste vídeo aprendemos um pouco sobre o front-end e seus conceitos/aplicações.
+  
  
- Estudos: HTML; CSS; JS;
+ ### Estudos: HTML; PHP;
+
  
- Algumas das paginas do site configurada, com informações sobre HTML5 e CSS3. JS
+ ### Algumas das paginas do site configurada, com informações sobre HTML5 E PHP
 
  
  ---
